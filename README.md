@@ -15,4 +15,4 @@ Current language expertise in Java as of (2025-11-14)
 - Number isn't saved so it resets between inputs
 
 ## Example Usage
-![Example Image]("/example.png")
+![Example Image]("example.png")
